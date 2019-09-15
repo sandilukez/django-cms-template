@@ -167,6 +167,8 @@ MIDDLEWARE = (
     'cms.middleware.language.LanguageCookieMiddleware'
 )
 
+MOJ_SETTING = []
+
 ROOT_URLCONF = 'project_name.urls'
 
 # Python dotted path to the WSGI application used by Django's runserver.
