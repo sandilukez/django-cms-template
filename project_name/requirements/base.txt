@@ -1,5 +1,5 @@
 # Django 
-Django==1.11.12
+Django==1.11.29
 
 # Django CMS + dependencies
 appdirs==1.4.0
